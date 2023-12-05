@@ -1,0 +1,19 @@
+---
+---
+
+@import 'main';
+
+/* append your custom style below */
+
+:root {
+    --heading-color: #191F28;
+    --prompt-text-color: #333D4B;
+}
+
+#search-results a, h5, h4, h3, h2, h1 {
+    color: #191F28;
+}
+
+blockquote.prompt-callout {
+    background-color: #f2f4f6;
+}
